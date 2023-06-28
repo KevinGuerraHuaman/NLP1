@@ -5,7 +5,7 @@
 </p>
 
 ## Procesamiento de Lenguaje Natural - UBA
-Repositorio de las practicas sobre el curso NLP como parte de la especializacion en inteligencia artificial (CEIA) - UBA.
+Repositorio de las prácticas realizadas en el curso NLP como parte de la especialización en inteligencia artificial (CEIA) - UBA.
 
 ## Cuadernos desarrollados
 
